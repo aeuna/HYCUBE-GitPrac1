@@ -6,3 +6,4 @@
 - Git clone
 - Commit
 - Push / Pull
+- Branch
